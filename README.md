@@ -13,5 +13,6 @@ Participants:
 - (Academy): National University of Computer & Emerging Sciences - FAST www.nu.edu.pk
 
 
-Viewers are advised to review project details & vote for the idea & endeavor on: http://isif.asia/projects/projects/view/149
+Viewers are advised to review project details & vote for the idea & endeavor on: https://application.isif.asia/projects/projects/view/149
 
+https://sites.google.com/site/projectbotnet/
